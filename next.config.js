@@ -3,9 +3,12 @@ const nextConfig = {
   reactStrictMode: true,
 };
 
+// next.config.js
+
 module.exports = {
-  ...nextConfig,
-  images: {
-    domains: ['2ashy4u.github.io'],
+  output: {
+    // Set the export target to "static" for static HTML export
+    // Other options include "server" for server-rendered export
+    export: 'static',
   },
 };
