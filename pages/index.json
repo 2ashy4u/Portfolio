@@ -1,0 +1,70 @@
+{
+  "navigation": [
+    {
+      "title": "About",
+      "url": "http://www.example.com/about"
+    },
+    {
+      "title": "Projects",
+      "url": "http://www.example.com/portfolio"
+    },
+    {
+      "title": "Contact",
+      "url": "http://www.example.com/contact"
+    }
+  ],
+  "hero": {
+    "name": "Ashmir Moni",
+    "subtitle": "I am a Full-Stack Developer."
+  },
+  "about": {
+    "title": "About me",
+    "techSkills": "JavaScript(ES7) | Python | Vue.js 3 | React | Angular | PHP  Django | Express.js | MySQL | PostgreSQL | RESTful API Development | AWS | Git | Docker | npm | TypeScript | C  C++ | Flask | PyTorch | Next.js | Pandas | NumPy | Selenium  Linux | SpringBoot | SCRUM | MongoDB | ROS2 | DevOps",
+    "softSkills": "Problem solver | Critical Thinking | Communication  Adaptability | Excellent Time Management | Collaboration  Attention to Detail | Creativity | Self-Motivated | Empathy  Continuous Learner | Strong Leadership",
+    "primary": "Hi there! I'm Ashmir Moni, a passionate and dedicated full-stack developer with a strong background in web development. With 4+ years of experience in the field, I thrive on creating efficient, scalable, and user-friendly applications. From the front-end to the back-end, I enjoy working with a diverse set of technologies and frameworks. On the front-end, I specialize in crafting engaging user interfaces using HTML, CSS, and JavaScript. I have expertise in modern front-end libraries and frameworks like React and Angular, which allow me to build interactive and responsive web applications. When it comes to the back-end, I am proficient in designing and implementing robust server-side architectures. I have experience working with various back-end technologies such as Node.js and Django, and I am comfortable building RESTful APIs and integrating databases like MySQL and MongoDB.",
+    "secondary": "Besides technical skills, I am a strong advocate for clean code, test-driven development, and agile methodologies. I believe in writing code that is not only functional but also maintainable and scalable. I enjoy tackling complex problems, breaking them down into manageable tasks, and delivering efficient solutions that meet both user and business needs. In addition to my technical expertise, I am a team player with excellent communication skills. I value collaboration and believe that effective communication is key to successful project delivery. I enjoy working in a dynamic and challenging environment, where I can contribute my skills and collaborate with like-minded professionals. Outside of coding, I love exploring new technologies, attending tech conferences and meetups, and engaging in open-source projects. In my free time, you can find me experimenting with personal projects or enjoying outdoor activities. I am excited about the opportunity to work on innovative projects and contribute to the success of your team. If you're looking for a reliable full-stack developer who can turn your ideas into reality, feel free to reach out. I'm always ready for new challenges!"
+  },
+  "projects": {
+    "title": "Projects",
+    "projects": [
+      {
+        "title": "Project 1",
+        "description": "Describe the project being very specific, you can use the Twitter standard: no more than 280 characters: complement the information: the skills learned or reinforced in its realization and how you faced it, prove to be proactive in the search for solutions.",
+        "url": "http://www.example.com/project1",
+        "github": "http://www.example.com/github",
+        "image": "/placeholder-700x350.png"
+      },
+      {
+        "title": "Project 2",
+        "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
+        "url": "http://www.example.com/project2",
+        "github": "http://www.example.com/github",
+        "image": "/Portfolio/IMG_4310.jpeg"
+      },
+      {
+        "title": "Project 3",
+        "description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on your professionalism.",
+        "url": "http://www.example.com/project3",
+        "github": "http://www.example.com/github",
+        "image": "/placeholder-700x350.png"
+      },
+      {
+        "title": "Project 4",
+        "description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on your professionalism.",
+        "url": "http://www.example.com/project3",
+        "github": "http://www.example.com/github",
+        "image": "/placeholder-700x350.png"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "This is where you can describe your contact. The more you describe your contact, the more chances you have!",
+    "formId": "mwkjjnav"
+  },
+  "footer": {
+    "linkedin": "",
+    "twitter": "",
+    "github": ""
+  }
+}
