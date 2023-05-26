@@ -1,5 +1,6 @@
 import React from "react";
 import config from "../index.json";
+import Image from "next/image";
 
 const Hero = () => {
   const hero = config.hero;
@@ -21,6 +22,16 @@ const Hero = () => {
             </span>
           </div>
         </a>
+        <div className="mt-5 ">
+            <Image 
+            src={hero.image} 
+            alt="about" 
+            className="shadow-lg" 
+            width={300} 
+            height={300}
+            
+        />
+        </div>
       </div>
       
     </section>

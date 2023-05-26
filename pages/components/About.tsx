@@ -20,8 +20,8 @@ const About = () => {
             <span>{about.softSkills}</span>
           </div>
           </div>
-          
         </div>
+        
         <div className="pt-8 md:py-0 md:w-1/2 text-white md:ml-4 text-center md:text-left">
           <div className="about__primary">
             <span>{about.primary}</span>

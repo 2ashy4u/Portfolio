@@ -15,10 +15,13 @@
   ],
   "hero": {
     "name": "Ashmir Moni",
-    "subtitle": "I am a Full-Stack Developer."
+    "subtitle": "I am a Full-Stack Developer.",
+    "image": "/Portfolio/IMG_4310.jpeg"
+
   },
   "about": {
     "title": "About me",
+    "image": "/IMG_4310.jpeg",
     "techSkills": "JavaScript(ES7) | Python | Vue.js 3 | React | Angular | PHP  Django | Express.js | MySQL | PostgreSQL | RESTful API Development | AWS | Git | Docker | npm | TypeScript | C  C++ | Flask | PyTorch | Next.js | Pandas | NumPy | Selenium  Linux | SpringBoot | SCRUM | MongoDB | ROS2 | DevOps",
     "softSkills": "Problem solver | Critical Thinking | Communication  Adaptability | Excellent Time Management | Collaboration  Attention to Detail | Creativity | Self-Motivated | Empathy  Continuous Learner | Strong Leadership",
     "primary": "Hi there! I'm Ashmir Moni, a passionate and dedicated full-stack developer with a strong background in web development. With 4+ years of experience in the field, I thrive on creating efficient, scalable, and user-friendly applications. From the front-end to the back-end, I enjoy working with a diverse set of technologies and frameworks. On the front-end, I specialize in crafting engaging user interfaces using HTML, CSS, and JavaScript. I have expertise in modern front-end libraries and frameworks like React and Angular, which allow me to build interactive and responsive web applications. When it comes to the back-end, I am proficient in designing and implementing robust server-side architectures. I have experience working with various back-end technologies such as Node.js and Django, and I am comfortable building RESTful APIs and integrating databases like MySQL and MongoDB.",
@@ -39,7 +42,7 @@
         "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
         "url": "http://www.example.com/project2",
         "github": "http://www.example.com/github",
-        "image": "/Portfolio/IMG_4310.jpeg"
+        "image": "/placeholder-700x350.png"
       },
       {
         "title": "Project 3",
