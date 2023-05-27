@@ -11,7 +11,8 @@ class MyDocument extends Document {
     return (
       <Html lang="en" className='scroll-smooth'>
         <Head>
-          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"/>
+          <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" />
+          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" />
         </Head>
         <body className='text-black'>
           <Header />

@@ -31,43 +31,44 @@
     "title": "Projects",
     "projects": [
       {
-        "title": "Project 1",
-        "description": "Describe the project being very specific, you can use the Twitter standard: no more than 280 characters: complement the information: the skills learned or reinforced in its realization and how you faced it, prove to be proactive in the search for solutions.",
-        "url": "http://www.example.com/project1",
-        "github": "http://www.example.com/github",
+        "title": "Full-Stack Training Monitoring Web App",
+        "description": "Western Digital Training Monitor Web Application: A cutting-edge web app enabling real-time tracking and management of employee training programs. Streamline onboarding, track progress, and analyze training data with intuitive dashboards. Empower WD to optimize skill development and ensure workforce readiness in a dynamic digital landscape. ",
+        "url": "https://github.com/2ashy4u/CSE120Project",
+        "github": "https://github.com/2ashy4u/CSE120Project",
         "image": "/placeholder-700x350.png"
       },
       {
-        "title": "Project 2",
-        "description": "Demonstrate in this description the skills of a programmer: such as having commitment, having perseverance and accepting alternative solutions. Remember that being a portfolio you are not selling the project, you are selling yourself, it reflects the resources used: Frameworks, libraries, platforms, etc.",
-        "url": "http://www.example.com/project2",
-        "github": "http://www.example.com/github",
+        "title": "Tetris",
+        "description": "Remade one of the most popular games in the world using C++ and CMake. This project had me dive deep into the fundamentals of programming and is one of the reasons why I have a clear understanding of software development.",
+        "url": "https://github.com/2ashy4u/tetris",
+        "github": "https://github.com/2ashy4u/tetris",
         "image": "/placeholder-700x350.png"
       },
       {
-        "title": "Project 3",
+        "title": "Full-Stack Pizza Store Management Website",
         "description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on your professionalism.",
-        "url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
+        "url": "https://github.com/2ashy4u/Pizza-Management",
+        "github": "https://github.com/2ashy4u/Pizza-Management",
         "image": "/placeholder-700x350.png"
       },
       {
-        "title": "Project 4",
-        "description": "If the project was collaborative, reflect it in this description, that will demonstrate communication and/or leadership skills. Additionally, if you made use of the mastery of a second language, it will reflect on your professionalism.",
+        "title": "Automated Inspection using Machine Learning",
+        "description": "Utilized a machine learning model in PyTorch that implements a solution that reduces manual inspection labor through automated defect detection under standard work cell lightings. Significantly improved accuracy which allowed client to deliver more consistent products and reduced overhead costs by 25%",
         "url": "http://www.example.com/project3",
-        "github": "http://www.example.com/github",
+        "github": "https://github.com/2ashy4u/Automated-Inspection",
         "image": "/placeholder-700x350.png"
       }
     ]
   },
   "contact": {
     "title": "Contact",
-    "description": "This is where you can describe your contact. The more you describe your contact, the more chances you have!",
+    "description": "",
     "formId": "mwkjjnav"
   },
   "footer": {
     "linkedin": "",
     "twitter": "",
-    "github": ""
+    "github": "https://github.com/2ashy4u",
+    "email": "ashmirmonijobs@gmail.com"
   }
 }

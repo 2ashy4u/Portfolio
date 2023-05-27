@@ -6,34 +6,32 @@ const Hero = () => {
   const hero = config.hero;
 
   return (
-    <section className="h-screen bg-white overflow-x-hidden">
-      <div className="px-8 lg:px-32 flex flex-col justify-center align-between">
-        <h1 className="text-6xl mt-64 font-bold tracking-wide">
-          Hi, my name is  
-          <span className="ml-3 whitespace-nowrap bg-gradient-to-r from-red-600 via-green-600 to-blue-600 bg-clip-text text-transparent">
-            {hero.name}
-          </span>
-        </h1>
-        <h1 className="text-6xl font-bold tracking-wide mt-4">{hero.subtitle}</h1>
-        <a href="#About" className="text-2xl font-bold p-0.5 mt-6 w-44 bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500">
-          <div className="bg-white">
-            <span className="block text-center py-0.5 px-2 font-semibold bg-white font-bold bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 bg-clip-text text-transparent">
-              Know more
+    <section className="h-screen bg-white overflow-x-hidden flex items-center justify-center">
+      <div className="px-8 lg:px-32 flex flex-col lg:flex-row justify-between items-center">
+        <div className="lg:pr-8 space-y-4">
+          <h1 className="text-6xl font-bold tracking-wide">
+            Hi, my name is  
+            <span className="ml-3 whitespace-nowrap bg-gradient-to-r from-red-600 via-green-600 to-blue-600 bg-clip-text text-transparent">
+              {hero.name}
             </span>
+          </h1>
+          <h1 className="text-6xl font-bold tracking-wide">{hero.subtitle}</h1>
+          <div className="border-2 border-rose-500 rounded w-full lg:w-44 transition-all duration-300 hover:bg-rose-500 hover:border-transparent flex justify-center items-center">
+            <a href="#About" className="text-2xl font-bold py-2 px-4 bg-clip-text text-transparent bg-gradient-to-r from-rose-400 via-fuchsia-500 to-indigo-500 transition-colors duration-300 hover:text-white">
+                Know more
+            </a>
           </div>
-        </a>
-        <div className="mt-5 ">
-            <Image 
+        </div>
+        <div className="mt-5 lg:mt-0 lg:pl-8">
+          <Image 
             src={hero.image} 
             alt="about" 
             className="shadow-lg" 
             width={300} 
             height={300}
-            
-        />
+          />
         </div>
       </div>
-      
     </section>
   );
 };
