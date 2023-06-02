@@ -22,7 +22,7 @@ const About = () => {
             <h1 className="pt-12 uppercase font-bold text-white text-2xl mb-4"></h1>
             <p>{about.secondary}</p>
             <div className="mt-6 border-2 border-white py-2 px-3 w-44 text-center font-bold transition-all duration-300 hover:bg-white hover:text-purple-500">
-              <a href={'http://www.google.com'} className="text-white text-l transition-colors duration-300 hover:text-purple-500">View Resume</a>
+              <a href={'https://drive.google.com/file/d/13_9DBqxp-QOFzFnFgEt4m3r00T-zPyao/view?usp=sharing'} className="text-white text-l transition-colors duration-300 hover:text-purple-500">View Resume</a>
             </div>
           </div>
         </div>
